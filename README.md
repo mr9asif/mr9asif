@@ -3,5 +3,5 @@
 
 <h2>🔭 I’m currently studying Computer Science Engineering</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr9asif&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr9asif)](https://github.com/anuraghazra/github-readme-stats)
 
