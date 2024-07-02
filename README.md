@@ -6,17 +6,15 @@
 
 
 
-<div style="border">
+
 
   
- <div >
 
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=mr9asif&theme=highcontrast&background=000000&stroke=FFFFFF&ring=FF4500&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=808080)](https://git.io/streak-stats)
- </div>
-<div>
 
-  <img align="right" alt="codin" width="200" src="https://i.postimg.cc/44K2dN1p/text-work.gif"/>
-</div>
-</div>
+<img align="center" height="400"   src="https://streak-stats.demolab.com/?user=mr9asif&theme=highcontrast&background=000000&stroke=FFFFFF&ring=FF4500&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=808080" alt="GitHub Streak" />
+
+
+<img align="right" height="200" margin-bottom='60px' alt="coding" width="270" src="https://i.postimg.cc/44K2dN1p/text-work.gif"/>
+
 
 
