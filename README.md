@@ -11,8 +11,10 @@
   
 
 
-<img align="center"  height="300"  src="https://streak-stats.demolab.com/?user=mr9asif&theme=highcontrast&background=000000&stroke=FFFFFF&ring=FF4500&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=808080" alt="GitHub Streak" />
+<img align="center" height="300" src="https://streak-stats.demolab.com/?user=mr9asif&theme=highcontrast&background=000000&stroke=FFFFFF&ring=0000FF&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=808080" alt="GitHub Streak" />
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr9asif&layout=pie&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
